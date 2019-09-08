@@ -1,0 +1,61 @@
+<!ENTITY dialog.title "Add Bookmark Here² אפשרויות של">
+<!ENTITY pane.main "ראשי">
+<!ENTITY pane.panel "חלונית">
+<!ENTITY pane.menu "תפריט">
+<!ENTITY pane.advanced "מתקדם">
+<!ENTITY position.group "מיקום פריט התפריט">
+<!ENTITY position.item.abHere "בחירת מיקום של [הוסף פה סימניה...]">
+<!ENTITY position.item.opTabs "בחירת מיקום של [פתח הכל בלשוניות]">
+<!ENTITY position.option.top "למעלה">
+<!ENTITY position.option.bottom "למטה">
+<!ENTITY position.option.hidden "מוסתר">
+<!ENTITY clicking.group "לחיצה על העכבר">
+<!ENTITY clicking.item.buttonL "לחיצה שמאלית">
+<!ENTITY clicking.item.buttonM "לחיצה אמצעית">
+<!ENTITY clicking.item.buttonR "לחיצה ימנית">
+<!ENTITY clicking.option.bmPage "הוסף דף זה לסימניות">
+<!ENTITY clicking.option.bmNoUI "הוסף עמוד זה לסימניות (ללא תיבת הדו־שיח)">
+<!ENTITY clicking.option.bmTabs "הוסף לסימניות את כל הלשוניות">
+<!ENTITY clicking.option.opTabs "פתח הכל בלשוניות">
+<!ENTITY starUI.group "עריכת תיבת הדו־שיח של הסימניה">
+<!ENTITY starUI.row.name "שם">
+<!ENTITY starUI.row.location "מיקום">
+<!ENTITY starUI.row.folderPicker "תיקיה">
+<!ENTITY starUI.row.tags "תגיות">
+<!ENTITY starUI.row.keyword "מילת מפתח">
+<!ENTITY starUI.row.description "תיאור">
+<!ENTITY starUI.row.loadInSidebar "טען סימניה זו בסרגל הצד">
+<!ENTITY starUI.expand.folderRow "הרחב את עץ התיקיה">
+<!ENTITY starUI.expand.tagsRow "הרחב את רשימת התגיות">
+<!ENTITY starUI.misc.tagsInline "הצג את התגיות בשורה">
+<!ENTITY bmsmenu.group "תפריט סימניות">
+<!ENTITY bmsmenu.item.addbmhere "הצג [הוסף פה סימניה...]">
+<!ENTITY bmsmenu.item.bmcurpage "הצג [הוסף דף זה לסימניות]">
+<!ENTITY bmsmenu.item.bmalltabs "הצג [הוסף לסימניות את כל הלשוניות...]">
+<!ENTITY bmsmenu.item.subscribe "הצג [הירשם (כמנוי) לדף זה...]">
+<!ENTITY bmsmenu.item.showallbm "הצג [הצג את כל הסימניות]">
+<!ENTITY bmsmenu.item.viewbtbar "Show [View Bookmarks Toolbar]">
+<!ENTITY bmsmenu.item.viewbsbar "Show [View Bookmarks Sidebar]">
+<!ENTITY bmsmenu.item.viewpockt "Show [View Pocket List]">
+<!ENTITY bmsmenu.item.bmtoolbar "הצג [סרגל כלים סימניות]">
+<!ENTITY bmsmenu.item.unsrtmenu "הצג [סימניות לא ממוינות]">
+<!ENTITY folder.group "תיקית סימניות">
+<!ENTITY folder.item.middleClick "לחיצה אמצעית:">
+<!ENTITY folder.item.insideFolder "לחיצה ימנית להוספת סימניות תמקם את הסימניה בתוך התיקיה">
+<!ENTITY folder.item.autoTagFolder "שימוש בשם התיקיה לתיוג אוטומטי לסימניה שנוספת">
+<!ENTITY starBtn.group "כוכב סימניה">
+<!ENTITY starBtn.clicking.item.buttonL "לחיצה שמאלית">
+<!ENTITY starBtn.clicking.item.buttonM "לחיצה אמצעית">
+<!ENTITY starBtn.clicking.item.buttonR "לחיצה ימנית">
+<!ENTITY starBtn.clicking.option.defaultBehavior "התנהגות ברירית מחדל">
+<!ENTITY starBtn.clicking.option.toggleMode "(דו־מצבי)">
+<!ENTITY starBtn.clicking.option.unsortedFolder "הוסף לתיקית סימניות לא ממוינות">
+<!ENTITY starBtn.clicking.option.singleClick "הצג את תיבת הדו־שיח באמצעות לחיצה אחת בודדת">
+<!ENTITY starBtn.clicking.option.openLibrary "פתח את הספריה כדי לארגן את הסימניות...">
+<!ENTITY starBtn.clicking.option.prefsDialog "פתח את אפשרויות של Add Bookmark Here²">
+<!ENTITY folderUnsorted.group "התאמה אישית של תיקית סימניות לא ממוינות">
+<!ENTITY misc.group "שונות">
+<!ENTITY misc.insertTop "הוספת סימניות לחלק העליון של התפריט">
+<!ENTITY misc.showIconic "הצג סמל פריט התפריט של [הוסף פה סימניה...]">
+<!ENTITY misc.ignorePinned "התעלם מלשוניות מוצמדות כאשר [הוסף לסימניות את כל הלשוניות...]">
+<!ENTITY misc.duplicateAllowed "Allow [Add Bookmark Here...] create Duplicate Bookmarks">

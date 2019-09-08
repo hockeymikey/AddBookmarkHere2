@@ -1,0 +1,61 @@
+<!ENTITY dialog.title "Options d'Add Bookmark Here ²">
+<!ENTITY pane.main "Général">
+<!ENTITY pane.panel "Panneau">
+<!ENTITY pane.menu "Menus">
+<!ENTITY pane.advanced "Avancé">
+<!ENTITY position.group "Position de l'élément de menu">
+<!ENTITY position.item.abHere "Choisissez la position de [Ajouter un marque-page ici...] :">
+<!ENTITY position.item.opTabs "Choisissez la position de [Tout ouvrir dans des onglets] :">
+<!ENTITY position.option.top "Haut">
+<!ENTITY position.option.bottom "Bas">
+<!ENTITY position.option.hidden "Masqué">
+<!ENTITY clicking.group "Clic de la souris">
+<!ENTITY clicking.item.buttonL "Clic gauche :">
+<!ENTITY clicking.item.buttonM "Clic milieu :">
+<!ENTITY clicking.item.buttonR "Clic droit :">
+<!ENTITY clicking.option.bmPage "Marquer cette page">
+<!ENTITY clicking.option.bmNoUI "Marquer cette page (sans dialogue)">
+<!ENTITY clicking.option.bmTabs "Marquer tous les onglets...">
+<!ENTITY clicking.option.opTabs "Tout ouvrir dans des onglets">
+<!ENTITY starUI.group "Dialogue d'édition de marque-page">
+<!ENTITY starUI.row.name "Nom">
+<!ENTITY starUI.row.location "Adresse">
+<!ENTITY starUI.row.folderPicker "Dossier">
+<!ENTITY starUI.row.tags "Étiquettes">
+<!ENTITY starUI.row.keyword "Mot-clé">
+<!ENTITY starUI.row.description "Description">
+<!ENTITY starUI.row.loadInSidebar "Charger ce marque-page dans la barre latérale">
+<!ENTITY starUI.expand.folderRow "Dérouler l'arbre des dossiers">
+<!ENTITY starUI.expand.tagsRow "Dérouler la liste des étiquettes">
+<!ENTITY starUI.misc.tagsInline "Afficher les étiquettes horizontalement">
+<!ENTITY bmsmenu.group "Menus des marque-pages">
+<!ENTITY bmsmenu.item.addbmhere "Afficher [Ajouter un marque-page ici...]">
+<!ENTITY bmsmenu.item.bmcurpage "Afficher [Marquer cette page]">
+<!ENTITY bmsmenu.item.bmalltabs "Afficher [Marquer tous les onglets...]">
+<!ENTITY bmsmenu.item.subscribe "Afficher [S'abonner à cette page...]">
+<!ENTITY bmsmenu.item.showallbm "Afficher [Afficher tous les marque-pages]">
+<!ENTITY bmsmenu.item.viewbtbar "Afficher [Afficher la barre personnelle]">
+<!ENTITY bmsmenu.item.viewbsbar "Afficher [Afficher panneau des marque-pages]">
+<!ENTITY bmsmenu.item.viewpockt "Afficher [Afficher la liste Pocket]">
+<!ENTITY bmsmenu.item.bmtoolbar "Afficher [Barre personnelle]">
+<!ENTITY bmsmenu.item.unsrtmenu "Afficher [Autres marque-pages]">
+<!ENTITY folder.group "Dossier des marque-pages">
+<!ENTITY folder.item.middleClick "Clic milieu :">
+<!ENTITY folder.item.insideFolder "Faire un clic droit sur un dossier pour ajouter des marque-pages les ajoutera dans le dossier">
+<!ENTITY folder.item.autoTagFolder "Utiliser le nom du dossier pour étiqueter automatiquement les marque-pages">
+<!ENTITY starBtn.group "Étoile de marque-page">
+<!ENTITY starBtn.clicking.item.buttonL "Clic gauche :">
+<!ENTITY starBtn.clicking.item.buttonM "Clic milieu :">
+<!ENTITY starBtn.clicking.item.buttonR "Clic droit :">
+<!ENTITY starBtn.clicking.option.defaultBehavior "Comportement par défaut">
+<!ENTITY starBtn.clicking.option.toggleMode "(Basculer)">
+<!ENTITY starBtn.clicking.option.unsortedFolder "Ajouter dans le dossier « Autres marque-pages »">
+<!ENTITY starBtn.clicking.option.singleClick "Afficher le dialogue à l'aide d'un simple clic">
+<!ENTITY starBtn.clicking.option.openLibrary "Ouvrir la bibliothèque pour organiser les marque-pages...">
+<!ENTITY starBtn.clicking.option.prefsDialog "Ouvrir les options d'Add Bookmark Here ²...">
+<!ENTITY folderUnsorted.group "Personnaliser le dossier « Autres marque-pages »">
+<!ENTITY misc.group "Divers">
+<!ENTITY misc.insertTop "Insérer les marque-pages en haut du menu">
+<!ENTITY misc.showIconic "Afficher l'icône de l'élément de menu [Ajouter un marque-page ici...]">
+<!ENTITY misc.ignorePinned "Ignorer les onglets épinglés en utilisant [Marquer tous les onglets...]">
+<!ENTITY misc.duplicateAllowed "Autoriser [Ajouter un marque-page ici...] à créer des marque-pages en double">

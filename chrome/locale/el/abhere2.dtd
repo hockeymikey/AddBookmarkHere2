@@ -1,0 +1,61 @@
+<!ENTITY dialog.title "Επιλογές του Add Bookmark Here ²">
+<!ENTITY pane.main "Κύριες">
+<!ENTITY pane.panel "Πίνακας">
+<!ENTITY pane.menu "Μενού">
+<!ENTITY pane.advanced "Για προχωρημένους">
+<!ENTITY position.group "Θέση στοιχείων μενού">
+<!ENTITY position.item.abHere "Θέση στοιχείου [Προσθήκη σελιδοδείκτη εδώ…]:">
+<!ENTITY position.item.opTabs "Θέση στοιχείου [Άνοιγμα όλων σε καρτέλες]:">
+<!ENTITY position.option.top "Κορυφή">
+<!ENTITY position.option.bottom "Κάτω">
+<!ENTITY position.option.hidden "Κρυφό">
+<!ENTITY clicking.group "Ενέργειες ποντικιού">
+<!ENTITY clicking.item.buttonL "Αριστερό κλικ:">
+<!ENTITY clicking.item.buttonM "Μεσαίο κλικ:">
+<!ENTITY clicking.item.buttonR "Δεξί κλικ:">
+<!ENTITY clicking.option.bmPage "Η σελίδα ως σελιδοδείκτης">
+<!ENTITY clicking.option.bmNoUI "Η σελίδα ως σελιδοδείκτης (χωρίς παράθυρο διαλόγου)">
+<!ENTITY clicking.option.bmTabs "Όλες οι καρτέλες ως σελιδοδείκτης">
+<!ENTITY clicking.option.opTabs "Άνοιγμα όλων σε καρτέλες">
+<!ENTITY starUI.group "Διάλογος επεξεργασίας σελιδοδείκτη">
+<!ENTITY starUI.row.name "Όνομα">
+<!ENTITY starUI.row.location "Τοποθεσία">
+<!ENTITY starUI.row.folderPicker "Φάκελος">
+<!ENTITY starUI.row.tags "Ετικέτες">
+<!ENTITY starUI.row.keyword "Λέξη κλειδί">
+<!ENTITY starUI.row.description "Περιγραφή">
+<!ENTITY starUI.row.loadInSidebar "Φόρτωση του σελιδοδείκτη στην πλευρική στήλη">
+<!ENTITY starUI.expand.folderRow "Ανάπτυξη του δένδρου φακέλων">
+<!ENTITY starUI.expand.tagsRow "Ανάπτυξη της λίστας ετικετών">
+<!ENTITY starUI.misc.tagsInline "Εμφάνιση των ετικετών εμβόλιμα">
+<!ENTITY bmsmenu.group "Μενού σελιδοδεικτών">
+<!ENTITY bmsmenu.item.addbmhere "Εμφάνιση στοιχείου [Προσθήκη σελιδοδείκτη εδώ…]">
+<!ENTITY bmsmenu.item.bmcurpage "Εμφάνιση στοιχείου [Προσθήκη στους σελιδοδείκτες]">
+<!ENTITY bmsmenu.item.bmalltabs "Εμφάνιση στοιχείου [Όλες οι καρτέλες ως σελιδοδείκτης…]">
+<!ENTITY bmsmenu.item.subscribe "Εμφάνιση στοιχείου [Συνδρομή σε αυτή την σελίδα…]">
+<!ENTITY bmsmenu.item.showallbm "Εμφάνιση στοιχείου [Προβολή όλων των σελιδοδεικτών…]">
+<!ENTITY bmsmenu.item.viewbtbar "Εμφάνιση στοιχείου [Προβολή εργαλειοθήκης σελιδοδεικτών]">
+<!ENTITY bmsmenu.item.viewbsbar "Εμφάνιση στοιχείου [Προβολή πλευρικής στήλης σελιδοδεικτών]">
+<!ENTITY bmsmenu.item.viewpockt "Εμφάνιση στοιχείου [Προβολή Λίστας Pocket]">
+<!ENTITY bmsmenu.item.bmtoolbar "Εμφάνιση στοιχείου [Εργαλειοθήκη σελιδοδεικτών]">
+<!ENTITY bmsmenu.item.unsrtmenu "Εμφάνιση στοιχείου [Αταξινόμητοι σελιδοδείκτες]">
+<!ENTITY folder.group "Φάκελος σελιδοδεικτών">
+<!ENTITY folder.item.middleClick "Μεσαίο κλικ:">
+<!ENTITY folder.item.insideFolder "Δεξί-κλικ στο «Προσθήκη σελιδοδείκτη εδώ…» θα τους τοποθετήσει μέσα στο φάκελο">
+<!ENTITY folder.item.autoTagFolder "Χρήση του ονόματος του φακέλου για αυτόματη προσθήκη ετικέτας στο σελιδοδείκτη">
+<!ENTITY starBtn.group "Αστερίσκος σελιδοδεικτών">
+<!ENTITY starBtn.clicking.item.buttonL "Αριστερό κλικ:">
+<!ENTITY starBtn.clicking.item.buttonM "Μεσαίο κλικ:">
+<!ENTITY starBtn.clicking.item.buttonR "Δεξί κλικ:">
+<!ENTITY starBtn.clicking.option.defaultBehavior "Προκαθορισμένη συμπεριφορά">
+<!ENTITY starBtn.clicking.option.toggleMode "(Εναλλαγή)">
+<!ENTITY starBtn.clicking.option.unsortedFolder "Προσθήκη στον φάκελο των αταξινόμητων σελιδοδεικτών">
+<!ENTITY starBtn.clicking.option.singleClick "Κλικ στον αστερίσκο σελιδοδεικτών για εμφάνιση του διαλόγου">
+<!ENTITY starBtn.clicking.option.openLibrary "Άνοιγμα βιβλιοθήκης για οργάνωση σελιδοδεικτών…">
+<!ENTITY starBtn.clicking.option.prefsDialog "Άνοιγμα επιλογών του Add Bookmark Here ²…">
+<!ENTITY folderUnsorted.group "Παραμετροποίηση του φακέλου αταξινόμητων σελιδοδεικτών">
+<!ENTITY misc.group "Διάφορα">
+<!ENTITY misc.insertTop "Προσθήκη νέων σελιδοδεικτών στην κορυφή του μενού">
+<!ENTITY misc.showIconic "Εμφάνιση στοιχείου μενού [Προσθήκη σελιδοδείκτη εδώ…]">
+<!ENTITY misc.ignorePinned "Αγνόηση καρτελών εφαρογών στο [Όλες οι καρτέλες ως σελιδοδείκτης…]">
+<!ENTITY misc.duplicateAllowed "Να επιτρέπεται η δημιουργία διπλότυπων σελιδοδεικτών με [Προσθήκη σελιδοδείκτη εδώ…]">

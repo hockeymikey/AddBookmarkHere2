@@ -1,0 +1,61 @@
+<!ENTITY dialog.title "Add Bookmark Here ² - опције">
+<!ENTITY pane.main "Опште">
+<!ENTITY pane.panel "Табла">
+<!ENTITY pane.menu "Мени">
+<!ENTITY pane.advanced "Напредно">
+<!ENTITY position.group "Позиција у менију">
+<!ENTITY position.item.abHere "Изаберите позицију за [Додај забелешку овде...]">
+<!ENTITY position.item.opTabs "Изаберите позицију за [Отвори све у језичцима]">
+<!ENTITY position.option.top "на врху">
+<!ENTITY position.option.bottom "на дну">
+<!ENTITY position.option.hidden "сакривено">
+<!ENTITY clicking.group "Кликање мишем">
+<!ENTITY clicking.item.buttonL "леви клик:">
+<!ENTITY clicking.item.buttonM "средњи клик:">
+<!ENTITY clicking.item.buttonR "редни клик:">
+<!ENTITY clicking.option.bmPage "Забележи ову страницу">
+<!ENTITY clicking.option.bmNoUI "Забележи ову страницу (без додатног прозора)">
+<!ENTITY clicking.option.bmTabs "Забележи све језичке...">
+<!ENTITY clicking.option.opTabs "Отвори све у језичцима">
+<!ENTITY starUI.group "уреди прозор са забелешкама">
+<!ENTITY starUI.row.name "Назив">
+<!ENTITY starUI.row.location "Локација">
+<!ENTITY starUI.row.folderPicker "Фасцикла">
+<!ENTITY starUI.row.tags "Ознаке">
+<!ENTITY starUI.row.keyword "Кључне речи">
+<!ENTITY starUI.row.description "Опис">
+<!ENTITY starUI.row.loadInSidebar "Учитај ову забелешку у бочној траци">
+<!ENTITY starUI.expand.folderRow "Рашири стабло фасцикле">
+<!ENTITY starUI.expand.tagsRow "Рашири списак ознака">
+<!ENTITY starUI.misc.tagsInline "Приказуј ознаке у једној линији">
+<!ENTITY bmsmenu.group "Мени са забелешкама">
+<!ENTITY bmsmenu.item.addbmhere "Прикажи [Додај забелешку овде...]">
+<!ENTITY bmsmenu.item.bmcurpage "Прикажи [Забележи ову страницу]">
+<!ENTITY bmsmenu.item.bmalltabs "Прикажи [забележи све језичке...]">
+<!ENTITY bmsmenu.item.subscribe "Прикажи [Претплати се на ову страницу...]">
+<!ENTITY bmsmenu.item.showallbm "Прикажи [Прикажи  све забелешке...]">
+<!ENTITY bmsmenu.item.viewbtbar "Прикажи [Погледај траку са забелешкама]">
+<!ENTITY bmsmenu.item.viewbsbar "Прикажи [Погледај бочну траку са забелешкама]">
+<!ENTITY bmsmenu.item.viewpockt "Прикажи [Погледај приручни списак]">
+<!ENTITY bmsmenu.item.bmtoolbar "Прикажи [Трака са забелешкама]">
+<!ENTITY bmsmenu.item.unsrtmenu "Прикажи [Неразврстане забелешке]">
+<!ENTITY folder.group "Фасцикла са зебелешкама">
+<!ENTITY folder.item.middleClick "средњи клик:">
+<!ENTITY folder.item.insideFolder "Ако притисните десни клик да бисте додали забелешку, биће смештена унутар фасцикле">
+<!ENTITY folder.item.autoTagFolder "Коришћење назива фасцикле да бисте аутоматски додали ознаке доданим забелешкама">
+<!ENTITY starBtn.group "Звездица за забелешке">
+<!ENTITY starBtn.clicking.item.buttonL "леви клик:">
+<!ENTITY starBtn.clicking.item.buttonM "средњи клик:">
+<!ENTITY starBtn.clicking.item.buttonR "десни клик:">
+<!ENTITY starBtn.clicking.option.defaultBehavior "Подразумевано понашање:">
+<!ENTITY starBtn.clicking.option.toggleMode "(промени)">
+<!ENTITY starBtn.clicking.option.unsortedFolder "Додај у фасциклу Неразврстане забелешке">
+<!ENTITY starBtn.clicking.option.singleClick "Прикажи прозор помоћу једног клика">
+<!ENTITY starBtn.clicking.option.openLibrary "Отвори библиотеку за организовање забелешки...">
+<!ENTITY starBtn.clicking.option.prefsDialog "отвори опције за Add Bookmark Here ²...">
+<!ENTITY folderUnsorted.group "Прилагоди фасциклу Неразврстане забелешке">
+<!ENTITY misc.group "Разно">
+<!ENTITY misc.insertTop "Уметни Забелешке на врх менија">
+<!ENTITY misc.showIconic "Прикажи икону за ставку у менију [Додај забелешку овде...]">
+<!ENTITY misc.ignorePinned "Занемари закачене језичке када изаберем [Забележи све језичке...]">
+<!ENTITY misc.duplicateAllowed "Дозволи прављење дуплих забелешки [Додај забелешку овде...]">

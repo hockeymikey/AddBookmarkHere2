@@ -1,0 +1,61 @@
+<!ENTITY dialog.title "Add Bookmarks Here²-opties">
+<!ENTITY pane.main "Algemeen">
+<!ENTITY pane.panel "Paneel">
+<!ENTITY pane.menu "Menu">
+<!ENTITY pane.advanced "Geavanceerd">
+<!ENTITY position.group "Positie menu-items">
+<!ENTITY position.item.abHere "Positie [Bladwijzer hier toevoegen…]:">
+<!ENTITY position.item.opTabs "Positie [Alles in tabbladen openen]:">
+<!ENTITY position.option.top "Bovenkant">
+<!ENTITY position.option.bottom "Onderkant">
+<!ENTITY position.option.hidden "Verborgen">
+<!ENTITY clicking.group "Muisbesturing">
+<!ENTITY clicking.item.buttonL "Klik:">
+<!ENTITY clicking.item.buttonM "Middelklik:">
+<!ENTITY clicking.item.buttonR "Rechtsklik:">
+<!ENTITY clicking.option.bmPage "Bladwijzer van deze pagina maken">
+<!ENTITY clicking.option.bmNoUI "Bladwijzer van deze pagina maken (zonder venster)">
+<!ENTITY clicking.option.bmTabs "Bladwijzer van alle tabbladen te maken…">
+<!ENTITY clicking.option.opTabs "Alles in tabbladen openen">
+<!ENTITY starUI.group "Venster Bladwijzer bewerken">
+<!ENTITY starUI.row.name "Naam">
+<!ENTITY starUI.row.location "Locatie">
+<!ENTITY starUI.row.folderPicker "Map">
+<!ENTITY starUI.row.tags "Labels">
+<!ENTITY starUI.row.keyword "Trefwoord">
+<!ENTITY starUI.row.description "Omschrijving">
+<!ENTITY starUI.row.loadInSidebar "Deze bladwijzer in de zijbalk laden">
+<!ENTITY starUI.expand.folderRow "Mappenlijst uitklappen">
+<!ENTITY starUI.expand.tagsRow "Labellijst uitklappen">
+<!ENTITY starUI.misc.tagsInline "Labels inline weergeven">
+<!ENTITY bmsmenu.group "Menu Bladwijzers">
+<!ENTITY bmsmenu.item.addbmhere "[Bladwijzer hier toevoegen…] weergeven">
+<!ENTITY bmsmenu.item.bmcurpage "[Bladwijzer van deze pagina maken] weergeven">
+<!ENTITY bmsmenu.item.bmalltabs "[Bladwijzer van alle tabbladen maken…] weergeven">
+<!ENTITY bmsmenu.item.subscribe "[Abonneren op deze pagina…] weergeven">
+<!ENTITY bmsmenu.item.showallbm "[Alle bladwijzers weergeven] weergeven">
+<!ENTITY bmsmenu.item.viewbtbar "[Bladwijzerwerkbalk bekijken] weergeven">
+<!ENTITY bmsmenu.item.viewbsbar "[Bladwijzerzijbalk bekijken] weergeven">
+<!ENTITY bmsmenu.item.viewpockt "[Kleine lijst bekijken] weergeven">
+<!ENTITY bmsmenu.item.bmtoolbar "[Bladwijzerwerkbalk] weergeven">
+<!ENTITY bmsmenu.item.unsrtmenu "[Ongesorteerde bladwijzers] weergeven">
+<!ENTITY folder.group "Bladwijzersmap">
+<!ENTITY folder.item.middleClick "Middelklik:">
+<!ENTITY folder.item.insideFolder "Rechtsklikken op een map om bladwijzers toe te voegen, zal deze in de map toevoegen">
+<!ENTITY folder.item.autoTagFolder "Mapnaam gebruiken voor het automatisch labelen van de toegevoegde bladwijzers">
+<!ENTITY starBtn.group "Bladwijzerster">
+<!ENTITY starBtn.clicking.item.buttonL "Klik:">
+<!ENTITY starBtn.clicking.item.buttonM "Middelklik:">
+<!ENTITY starBtn.clicking.item.buttonR "Rechtsklik:">
+<!ENTITY starBtn.clicking.option.defaultBehavior "Standaardgedrag">
+<!ENTITY starBtn.clicking.option.toggleMode "(Omschakelen)">
+<!ENTITY starBtn.clicking.option.unsortedFolder "Opslaan in de map Ongesorteerde bladwijzers">
+<!ENTITY starBtn.clicking.option.singleClick "Dialoogvenster met enkele klik weergeven">
+<!ENTITY starBtn.clicking.option.openLibrary "Bibliotheek openen om bladwijzers te beheren…">
+<!ENTITY starBtn.clicking.option.prefsDialog "Add Bookmark Here²-opties openen…">
+<!ENTITY folderUnsorted.group "De map Ongesorteerde bladwijzers aanpassen">
+<!ENTITY misc.group "Diversen">
+<!ENTITY misc.insertTop "Bladwijzers bovenaan het menu toevoegen">
+<!ENTITY misc.showIconic "Pictogram menu-item [Bladwijzer hier toevoegen…] weergeven">
+<!ENTITY misc.ignorePinned "Vastgezette tabbladen bij [Bladwijzer van alle tabbladen te maken…] negeren">
+<!ENTITY misc.duplicateAllowed "[Bladwijzer hier toevoegen…] toestaan om dubbele bladwijzers te maken">

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://abhere2/skin/abhere2.css" type="text/css"?>
+
+<overlay id="browserOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<script type="application/x-javascript" src="chrome://abhere2/content/browserOverlay.js"/>
+
+<menuitem id="placesContext_sortBy:name" type="checkbox"/>
+
+<menuitem id="bookmarksShowAll" class="menuitem-iconic"/>
+
+<menuitem id="menu_unsortedBookmarks" class="menuitem-iconic"/>
+
+<toolbarbutton id="bookmarks-menu-button" onclick="if (abHere2.handleStarButtonClick(event)) event.preventDefault();"/>
+
+</overlay>
